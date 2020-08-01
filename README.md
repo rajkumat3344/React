@@ -1,8 +1,10 @@
 # React
-I am Frontend Developer pursuing to be a part of  Frontend comm
+I am Frontend Developer pursuing to be a part of  Frontend community.
+
+# React
 Available Scripts
 In the project directory, you can run:
-unity.
+
 
 
 <npm start>
