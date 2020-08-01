@@ -4,6 +4,7 @@
 
 # Technology used :
 ![logo-react-icon](https://user-images.githubusercontent.com/58394648/89101999-bfcbc300-d422-11ea-8ccc-9005d091ec2b.png)
+![images](https://user-images.githubusercontent.com/58394648/89102086-75971180-d423-11ea-8ac2-f06e676c8104.jpg)
 
 # Available Scripts
 In the project directory, you can run:
