@@ -3,6 +3,7 @@
 # I am Frontend Developer pursuing to be a part of  Frontend community.
 
 # Technology used :
+![logo-react-icon](https://user-images.githubusercontent.com/58394648/89101999-bfcbc300-d422-11ea-8ccc-9005d091ec2b.png)
 
 # Available Scripts
 In the project directory, you can run:
