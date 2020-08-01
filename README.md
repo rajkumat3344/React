@@ -1,7 +1,8 @@
 ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f315843634439564c515a32496f2f67697068792e676966](https://user-images.githubusercontent.com/58394648/89101897-e50c0180-d421-11ea-8a71-1c4f42e27835.gif)
 
-# React
-I am Frontend Developer pursuing to be a part of  Frontend community.
+# I am Frontend Developer pursuing to be a part of  Frontend community.
+
+# Technology used :
 
 # Available Scripts
 In the project directory, you can run:
