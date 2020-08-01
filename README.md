@@ -1,6 +1,9 @@
-#React
+
 Available Scripts
 In the project directory, you can run:
+# React
+I am Frontend Developer pursuing to be a part of  Frontend community.
+
 
 npm start
 Runs the app in the development mode.
@@ -33,5 +36,4 @@ You don’t have to ever use eject. The curated feature set is suitable for smal
 
 
 
-# React
-I am Frontend Developer pursuing to be a part of  Frontend community.
+
